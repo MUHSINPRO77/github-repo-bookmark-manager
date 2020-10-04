@@ -1,0 +1,18 @@
+.repos-search input{
+    padding: 10px;
+    border: 3px black solid ;
+}
+.repos-search button{
+    padding: 7px;
+    background-color: black;
+    color: #fff;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.repos-search button:hover{
+    color:yellow;
+}
+.repos-search{
+    display: flex;
+    box-sizing: border-box;
+}

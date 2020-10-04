@@ -1,0 +1,36 @@
+.resultsdash h2{
+    text-decoration-line: underline;
+
+}
+.resultsdash ul{
+    padding: 3px;
+    border: 3px solid black;
+}
+
+.Button1{
+    float: right;
+    size: 5px;
+}
+.listdec{
+    position: relative;
+    background-image: url(./white.jpg);
+}
+.bookdec{
+    background-color: rgb(161, 160, 160);
+    background-image: url(./github.jpg);
+    background-position: center;
+    background-size: 500px;
+    color: blanchedalmond;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style:italic ;
+}
+
+
+.buttonStyle #b2{
+    float: right;
+    align-items: center;
+}
+.buttonStyle{
+    size:5px;
+}
+
