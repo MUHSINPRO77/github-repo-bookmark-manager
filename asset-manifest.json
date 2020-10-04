@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/github-repo-bookmark-manager/static/css/main.a2866698.chunk.css",
+    "main.js": "/github-repo-bookmark-manager/static/js/main.b726f8ac.chunk.js",
+    "main.js.map": "/github-repo-bookmark-manager/static/js/main.b726f8ac.chunk.js.map",
+    "runtime-main.js": "/github-repo-bookmark-manager/static/js/runtime-main.74eb5478.js",
+    "runtime-main.js.map": "/github-repo-bookmark-manager/static/js/runtime-main.74eb5478.js.map",
+    "static/js/2.e657d8b4.chunk.js": "/github-repo-bookmark-manager/static/js/2.e657d8b4.chunk.js",
+    "static/js/2.e657d8b4.chunk.js.map": "/github-repo-bookmark-manager/static/js/2.e657d8b4.chunk.js.map",
+    "index.html": "/github-repo-bookmark-manager/index.html",
+    "precache-manifest.abbae01b1ce0d4df750d847980999af3.js": "/github-repo-bookmark-manager/precache-manifest.abbae01b1ce0d4df750d847980999af3.js",
+    "service-worker.js": "/github-repo-bookmark-manager/service-worker.js",
+    "static/css/main.a2866698.chunk.css.map": "/github-repo-bookmark-manager/static/css/main.a2866698.chunk.css.map",
+    "static/js/2.e657d8b4.chunk.js.LICENSE.txt": "/github-repo-bookmark-manager/static/js/2.e657d8b4.chunk.js.LICENSE.txt",
+    "static/media/Results.css": "/github-repo-bookmark-manager/static/media/github.5b1f481c.jpg",
+    "static/media/logo.png": "/github-repo-bookmark-manager/static/media/logo.e45ebd52.png",
+    "static/media/navlogo.png": "/github-repo-bookmark-manager/static/media/navlogo.427b8bc2.png",
+    "static/media/App.css": "/github-repo-bookmark-manager/static/media/white.5e39cdaa.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.74eb5478.js",
+    "static/js/2.e657d8b4.chunk.js",
+    "static/css/main.a2866698.chunk.css",
+    "static/js/main.b726f8ac.chunk.js"
+  ]
+}
